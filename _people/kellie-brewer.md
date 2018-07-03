@@ -8,7 +8,8 @@ sub_heading: Professor
 thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+published: false
 ---
 
 Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
